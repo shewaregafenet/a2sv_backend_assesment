@@ -1,0 +1,15 @@
+
+config.env
+package-lock.json
+package.json
+/seeders
+/migrations
+/node_modules
+.env
+index.js
+/config
+config
+
+/uploads
+
+.dockerignore
